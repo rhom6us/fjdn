@@ -9,7 +9,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "sourceMap": true,
-    "declaration": true,
+    "declaration": false,
     "declarationDir": "./dist",
     "types": [],
     "skipDefaultLibCheck": true,
